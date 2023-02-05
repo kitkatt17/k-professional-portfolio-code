@@ -18,3 +18,12 @@ The user wants a "Work" section with a "Surf Report, LED Wall, Calculator, Paste
 Images on the website need an animation when the user hovers over it (Hover animation)
 
 The user wants a footer with a "Contact Me" with a phone number, email, github and socials.
+
+
+Links:
+https://github.com/kitkatt17/k-professional-portfolio-code
+
+https://kitkatt17.github.io/k-professional-portfolio-code/
+
+<img src="images/ss-of-challenge2.PNG" alt="screenshot of challenge 2 professional portfolio">
+
